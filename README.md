@@ -1,1 +1,4 @@
 # Matlab_FFT
+//TRÌNH BÀY LÝ THUYẾT BIẾN ĐỔI FFT,
+VIẾT CHƯƠNG TRÌNH PHÂN TÍCH TÍN HIỆU MIỀN TẦN SỐ,
+PHÂN TÍCH TẦN SỐ CHO TÍN HIỆU THỰC TẾ
